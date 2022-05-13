@@ -1,0 +1,112 @@
+.mintingwrap{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 0px 30px 30px 30px;
+}
+.mintingwrap .minttext{
+    font-size: 25px;
+}
+.mintingwrap .mintcontent{
+    margin-top: 30px;
+}
+.mintingwrap .mintcondition{
+    font-size: 18px;
+    border-bottom: 1px solid #444444;
+    padding-bottom: 5px;
+}
+.mintcontent .mintid{
+    margin-top: 40px;
+}
+.mintcontent .mintid .input-group-prepend{
+    font-size: 18px;
+    border-bottom: 1px solid #444444;
+    padding-bottom: 5px;
+}
+.mintcontent .mintid .input-group-append{
+    margin-top: 10px;
+    display: block;
+    color: #ff0000;
+}
+.mintcontent .mintname{
+    margin-top: 40px
+}
+.mintcontent .mintname .mintname_1{
+    display: block;
+    font-size: 18px;
+    border-bottom: 1px solid #444444;
+    padding-bottom: 5px;
+}
+.mintcontent .mintname .mintname_2{
+    width:100%;
+    height: 30px;
+    border:1px solid #eeeeee;
+    margin-top: 10px;
+}
+.mintcontent .mintimg{
+    margin-top: 40px;
+}
+.mintcontent .mintimg .mintimg1{
+    display: block;
+    font-size: 18px;
+    border-bottom: 1px solid #444444;
+    padding-bottom: 5px;
+}
+.mintcontent .mintimg .mintimg2{
+    margin-top: 10px;
+}
+.mintcontent .mintimg .filepreview{
+    margin-top: 20px;
+    width: 500px;
+}
+.mintcontent .mintimg .filepreview img{
+    width: 100%;
+}
+.mintcontent .mintimg button{
+    width: 100%;
+    height: 30px;
+    font-size: 15px;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    /*border: 1px solid #7d7d7d;*/
+}
+
+.mintcontent .mincate{
+    margin-top: 40px;
+}
+.mintcontent .mincate .mincate1{
+    display: block;
+    font-size: 18px;
+    border-bottom: 1px solid #444444;
+    padding-bottom: 5px;
+}
+.mintcontent .mincate .selectpicker{
+    width: 100%;
+    height: 30px;
+    border: 1px solid #eeeeee;
+    margin-top: 10px;
+}
+.mintcontent .mintdes{
+    margin-top: 40px;
+}
+.mintcontent .mintdes .mintdes1{
+    display: block;
+    font-size: 18px;
+    border-bottom: 1px solid #444444;
+    padding-bottom: 5px;
+}
+.mintcontent .mintdes .mintdes2{
+    width: 100%;
+    height: 300px;
+    border: 1px solid #eeeeee;
+    margin-top: 10px;
+}
+.mintcontent .mintbtn button{
+    width: 100%;
+    height: 30px;
+    font-size: 15px;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    /*border: 1px solid #7d7d7d;*/
+}
